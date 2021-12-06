@@ -10,9 +10,6 @@ Script Example:
 ![script1](https://user-images.githubusercontent.com/88166727/144838963-3d71d2d4-e587-4956-84f4-c3f5d38930ac.png)
 
 
-![script2](https://user-images.githubusercontent.com/88166727/144838964-b0939eec-fe6e-4e61-9d89-1784c3e5b967.png)
-
-
 ![script3](https://user-images.githubusercontent.com/88166727/144838968-994b871d-745f-4c5f-aed9-07c0dfca0e19.png)
 
 
